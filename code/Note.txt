@@ -1,0 +1,1 @@
+Every Codes re written for Windows. Incase you OS is different, do necessary changes.
