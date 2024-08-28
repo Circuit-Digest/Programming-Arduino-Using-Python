@@ -1,8 +1,6 @@
-
-
 # 🚀 How to Program Arduino Using Python 🎛️
 
-Welcome to the **Programming Arduino Using Python** repository! This guide is your gateway to controlling your Arduino boards directly from Python scripts, enabling limitless creativity and innovation. No more switching between programming environments—everything happens in the comfort of your favorite Python editor.
+Welcome to the [**Programming Arduino Using Python**](https://circuitdigest.com/microcontroller-projects/how-to-program-arduino-using-python) repository! This guide is your gateway to controlling your Arduino boards directly from Python scripts, enabling limitless creativity and innovation. No more switching between programming environments—everything happens in the comfort of your favorite Python editor.
 
 ## 🎯 What’s Inside?
 
