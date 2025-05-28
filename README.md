@@ -25,11 +25,11 @@ Programming Arduino Using Python: Complete PyFirmata Tutorial
 
 | Project | Description | Difficulty |
 | --- | --- | --- |
-| [LED Blink](https://claude.ai/chat/Digital_Write/) | Basic LED control with Python | Beginner |
-| [Button Read](https://claude.ai/chat/Digital_Read/) | Read button states in Python | Beginner |
-| [Sensor Reading](https://claude.ai/chat/Analog_Read/) | Read analog sensors with Python | Intermediate |
-| [PWM Control](https://claude.ai/chat/PWM_Control/) | Control LED brightness | Intermediate |
-| [Servo Control](https://claude.ai/chat/Servo_Control/) | Control servo motors with Python | Intermediate |
+| [LED Blink](https://circuitdigest.com/microcontroller-projects/how-to-program-arduino-using-python#digital-write) | Basic LED control with Python | Beginner |
+| [Button Read](https://circuitdigest.com/microcontroller-projects/how-to-program-arduino-using-python#digital-read) | Read button states in Python | Beginner |
+| [Sensor Reading](https://circuitdigest.com/microcontroller-projects/how-to-program-arduino-using-python#analog-read) | Read analog sensors with Python | Intermediate |
+| [PWM Control](https://circuitdigest.com/microcontroller-projects/how-to-program-arduino-using-python#analog-write-or-pwm-control) | Control LED brightness | Intermediate |
+| [Servo Control](https://circuitdigest.com/microcontroller-projects/how-to-program-arduino-using-python#servo-motor-control) | Control servo motors with Python | Intermediate |
 
 🔧 Quick Start
 --------------
@@ -121,21 +121,13 @@ Found a bug? Have a cool Arduino Python project to add? We welcome contributions
 4.  Push to the branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-📺 Video Tutorials
-------------------
 
--   [Arduino Python Setup Guide](https://youtube.com/your-channel)
--   [Advanced PyFirmata Projects](https://youtube.com/your-channel)
 
 🏷️ Tags
 --------
 
 `arduino` `python` `pyfirmata` `microcontroller` `iot` `electronics` `programming` `tutorial` `maker` `diy`
 
-📄 License
-----------
-
-This project is licensed under the MIT License - see the [LICENSE](https://claude.ai/chat/LICENSE) file for details.
 
 🔗 Related Resources
 --------------------
@@ -165,4 +157,4 @@ If this repository helped you with your Arduino Python projects:
 
 ⭐ **Star this repo if it helped you!** ⭐
 
-Made with ❤️ by [Circuit Digest](https://circuitdigest.com/) | Follow us on [YouTube](https://youtube.com/circuitdigest) | [Twitter](https://twitter.com/circuitdigest)
+Made with ❤️ by [Circuit Digest](https://circuitdigest.com/) | Follow us on [YouTube](https://youtube.com/circuitdigest) 
